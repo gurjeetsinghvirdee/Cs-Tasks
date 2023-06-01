@@ -1,5 +1,3 @@
-## Task 4
-
 ### Result
 
 <div align="center">
