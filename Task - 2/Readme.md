@@ -60,3 +60,6 @@ public class Program
 
 ### Result
 
+<div align="center">
+    <img src="./../Assets/Task%20-%202.png" width="800" />
+</div>
